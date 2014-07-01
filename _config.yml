@@ -1,0 +1,5 @@
+highlighter: true
+lcb: "{"
+rcb: "}"
+lbb: "&lt;&lt;"
+rbb: "&gt;&gt;"

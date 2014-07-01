@@ -5,3 +5,5 @@ _site/
 Session.vim
 .netrwhist
 *~
+Gemfile
+Gemfile.lock
