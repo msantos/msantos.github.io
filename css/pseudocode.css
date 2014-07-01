@@ -4,3 +4,16 @@
 li.erl-tuple {
     padding-left: 10px;
 }
+.erl-binary {
+    line-height: 3.0;    border: 1px solid #000000;
+    list-style-type: none;
+    display: inline;
+    padding: 10px 10px 10px 0px;
+}
+li.erl-binary {
+    border-left: 0px;
+    padding: 10px 10px 10px 10px;
+}
+li.erl-binary:last-child {
+    border-right: 0px;
+}

@@ -24,7 +24,7 @@ start() ->
         { {2011,04,23}, <a href="http://listincomprehension.com">
                 {{ site.lbb }}"List Incomprehension"{{ site.rbb }}
             </a>,
-            {{ site.lbb }}"network fun"{{ site.rbb }} }
+            {{ site.lbb }}"network legerdemain and packet buffoonery"{{ site.rbb }} }
     </li>
 ].
 </ul>
