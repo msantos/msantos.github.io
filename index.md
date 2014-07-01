@@ -2,12 +2,12 @@
 layout: entry
 ---
 
-```
+~~~
 -module(hello_world).
 -export([start/0,about/0]).
 
 start() ->
-```
+~~~
 
 <ul class="erl-list">
 [
@@ -29,9 +29,9 @@ start() ->
 ].
 </ul>
 
-```
+~~~
 about() ->
-```
+~~~
 <ul class="erl-list">
 [
     <li class="erl-tuple">
