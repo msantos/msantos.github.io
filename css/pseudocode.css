@@ -10,15 +10,39 @@ ul.erl-proplist:after {
 li.erl-proplist {
     padding-left: 10px;
 }
-li.erl-proplist:before {
-    content: "{";
-}
 li.erl-proplist:after {
-    content: "},";
+    content: ",";
 }
 li.erl-proplist:last-child:after {
+    content: "";
+}
+
+ul.erl-tuple {
+    list-style-type: none;
+    list-style-position: inside;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+ul.erl-tuple:before {
+    content: "{";
+}
+ul.erl-tuple:after {
+    content: "},";
+}
+ul.erl-tuple:last-child:after {
     content: "}";
 }
+li.erl-tuple {
+    display: inline;
+}
+li.erl-tuple:after {
+    content: ",";
+}
+li.erl-tuple:last-child:after {
+    content: "";
+}
+
 ul.erl-binary {
     line-height: 3.0;
     border: 1px solid #000000;
