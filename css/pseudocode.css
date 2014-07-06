@@ -1,11 +1,27 @@
-.erl-list {
+ul.erl-proplist {
     list-style-type: none;
 }
-li.erl-tuple {
+ul.erl-proplist:before {
+    content: "[";
+}
+ul.erl-proplist:after {
+    content: "].";
+}
+li.erl-proplist {
     padding-left: 10px;
 }
-.erl-binary {
-    line-height: 3.0;    border: 1px solid #000000;
+li.erl-proplist:before {
+    content: "{";
+}
+li.erl-proplist:after {
+    content: "},";
+}
+li.erl-proplist:last-child:after {
+    content: "}";
+}
+ul.erl-binary {
+    line-height: 3.0;
+    border: 1px solid #000000;
     list-style-type: none;
     display: inline;
     padding: 10px 10px 10px 0px;
