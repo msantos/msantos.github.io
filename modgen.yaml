@@ -1,0 +1,6 @@
+host: go.iscode.ca
+
+modules:
+  - path: /mdg
+    vcs: git
+    repo-url: https://github.com/msantos/mdg
