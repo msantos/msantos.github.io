@@ -1,0 +1,16 @@
+{
+  "domain": "go.iscode.ca",
+  "repositories": [
+    {
+      "prefix": "mdg",
+      "subs": [
+        "cmd/mdg",
+        "internal/pkg/fdpair",
+        "pkg/config",
+        "pkg/format",
+        "pkg/markdown"
+      ],
+      "url": "https://github.com/msantos/mdg"
+    }
+  ]
+}
