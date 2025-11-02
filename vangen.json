@@ -1,12 +1,12 @@
 {
   "domain": "go.iscode.ca",
+  "index": true,
   "repositories": [
     {
       "prefix": "mdg",
+      "main": true,
       "subs": [
         "cmd/mdg",
-        "internal/pkg/fdpair",
-        "pkg/config",
         "pkg/format",
         "pkg/markdown"
       ],
