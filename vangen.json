@@ -11,6 +11,15 @@
         "pkg/markdown"
       ],
       "url": "https://github.com/msantos/mdg"
+    },
+    {
+      "prefix": "redact",
+      "main": true,
+      "subs": [
+        "cmd/redact",
+        "pkg/redact",
+      ,
+      "url": "https://github.com/msantos/redact"
     }
   ]
 }
