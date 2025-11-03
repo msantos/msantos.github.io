@@ -17,8 +17,8 @@
       "main": true,
       "subs": [
         "cmd/redact",
-        "pkg/redact",
-      ,
+        "pkg/redact"
+      ],
       "url": "https://github.com/msantos/redact"
     }
   ]
