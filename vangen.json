@@ -3,6 +3,16 @@
   "index": true,
   "repositories": [
     {
+      "prefix": "cvecat",
+      "main": true,
+      "subs": [
+        "cmd/cvecat",
+        "pkg/cve5",
+        "pkg/cvecat"
+      ],
+      "url": "https://github.com/msantos/cvecat"
+    },
+    {
       "prefix": "mdg",
       "main": true,
       "subs": [
