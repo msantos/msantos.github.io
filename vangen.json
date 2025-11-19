@@ -35,6 +35,14 @@
         "pkg/redact"
       ],
       "url": "https://github.com/msantos/redact"
+    },
+    {
+      "prefix": "ssh-agent-mux",
+      "main": true,
+      "subs": [
+        "cmd/ssh-agent-mux"
+      ],
+      "url": "https://github.com/msantos/ssh-agent-mux"
     }
   ]
 }
