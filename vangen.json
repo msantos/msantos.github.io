@@ -46,6 +46,14 @@
       "url": "https://github.com/msantos/redact"
     },
     {
+      "prefix": "rotatee",
+      "main": true,
+      "subs": [
+        "cmd/rotatee"
+      ],
+      "url": "https://github.com/msantos/rotatee"
+    },
+    {
       "prefix": "ssh-agent-mux",
       "main": true,
       "subs": [
