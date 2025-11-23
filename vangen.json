@@ -43,6 +43,15 @@
         "cmd/ssh-agent-mux"
       ],
       "url": "https://github.com/msantos/ssh-agent-mux"
+    },
+    {
+      "prefix": "supervises",
+      "main": true,
+      "subs": [
+        "cmd/supervises",
+        "pkg/supervises"
+      ],
+      "url": "https://github.com/msantos/supervises"
     }
   ]
 }
