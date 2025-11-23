@@ -28,6 +28,15 @@
       "url": "https://github.com/msantos/mdg"
     },
     {
+      "prefix": "noprivexec",
+      "main": true,
+      "subs": [
+        "cmd/noprivexec",
+        "pkg/noprivexec"
+      ],
+      "url": "https://github.com/msantos/noprivexec-go"
+    },
+    {
       "prefix": "redact",
       "main": true,
       "subs": [
