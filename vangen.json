@@ -46,6 +46,14 @@
       "url": "https://github.com/msantos/redact"
     },
     {
+      "prefix": "riemann-bridge",
+      "main": true,
+      "subs": [
+        "cmd/riemann-bridge"
+      ],
+      "url": "https://github.com/msantos/riemann-bridge"
+    },
+    {
       "prefix": "rotatee",
       "main": true,
       "subs": [
