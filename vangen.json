@@ -77,6 +77,14 @@
         "pkg/supervises"
       ],
       "url": "https://github.com/msantos/supervises"
+    },
+    {
+      "prefix": "embedexe",
+      "url": "git@github.com:msantos/embedexe.git"
+    },
+    {
+      "prefix": "execve",
+      "url": "https://github.com/msantos/execve"
     }
   ]
 }
