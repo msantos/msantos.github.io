@@ -13,6 +13,11 @@
       "url": "https://github.com/msantos/cvecat"
     },
     {
+      "prefix": "icsevent",
+      "main": true,
+      "url": "https://github.com/msantos/icsevent"
+    },
+    {
       "prefix": "imappipe",
       "main": true,
       "url": "https://github.com/msantos/imappipe"
