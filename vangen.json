@@ -74,7 +74,7 @@
     {
       "prefix": "runhash",
       "main": true,
-      "url": "https://github.com/msantos/runhash"
+      "url": "https://github.com/msantos/runhash-go"
     },
     {
       "prefix": "ssh-agent-mux",
