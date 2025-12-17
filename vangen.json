@@ -72,6 +72,11 @@
       "url": "https://github.com/msantos/rotatee"
     },
     {
+      "prefix": "runhash",
+      "main": true,
+      "url": "https://github.com/msantos/runhash"
+    },
+    {
       "prefix": "ssh-agent-mux",
       "main": true,
       "subs": [
