@@ -83,6 +83,9 @@
     {
       "prefix": "runhash",
       "main": true,
+      "subs": [
+        "cmd/runhash"
+      ],
       "url": "https://github.com/msantos/runhash-go"
     },
     {
