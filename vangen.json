@@ -18,6 +18,15 @@
       "url": "https://github.com/msantos/dnsup"
     },
     {
+      "prefix": "fchmodexec",
+      "main": true,
+      "subs": [
+        "cmd/fchmodexec",
+        "pkg/fchmodexec"
+      ],
+      "url": "https://github.com/msantos/fchmodexec-go"
+    },
+    {
       "prefix": "icsevent",
       "main": true,
       "url": "https://github.com/msantos/icsevent"
