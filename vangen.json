@@ -97,6 +97,15 @@
       "url": "https://github.com/msantos/ssh-agent-mux"
     },
     {
+      "prefix": "sredird",
+      "main": true,
+      "subs": [
+        "cmd/sredird",
+        "pkg/sredird"
+      ],
+      "url": "https://github.com/msantos/sredird-go"
+    },
+    {
       "prefix": "supervises",
       "main": true,
       "subs": [

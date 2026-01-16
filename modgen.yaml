@@ -1,9 +1,0 @@
-host: go.iscode.ca
-
-modules:
-  - path: /mdg
-    vcs: git
-    repo-url: https://github.com/msantos/mdg
-  - path: /modtest
-    vcs: git
-    repo-url: https://git.iscode.ca/msantos/gomodtest
