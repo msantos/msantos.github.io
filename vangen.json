@@ -27,6 +27,17 @@
       "url": "https://github.com/msantos/fchmodexec-go"
     },
     {
+      "prefix": "goreap",
+      "main": true,
+      "subs": [
+        "cmd/goreap",
+        "pkg/process",
+        "pkg/reap",
+        "pkg/subreaper"
+      ],
+      "url": "https://github.com/msantos/goreap"
+    },
+    {
       "prefix": "icsevent",
       "main": true,
       "url": "https://github.com/msantos/icsevent"
