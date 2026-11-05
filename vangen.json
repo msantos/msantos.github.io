@@ -48,6 +48,16 @@
       "url": "https://github.com/msantos/imappipe"
     },
     {
+      "prefix": "mats",
+      "main": true,
+      "subs": [
+        "cmd/mats",
+        "cmd/mats-influx-proxy",
+        "cmd/mats-riemann-sse"
+      ],
+      "url": "https://tangled.org/msantos.tngl.sh/mats"
+    },
+    {
       "prefix": "mdg",
       "main": true,
       "subs": [
@@ -65,6 +75,18 @@
         "pkg/noprivexec"
       ],
       "url": "https://github.com/msantos/noprivexec-go"
+    },
+    {
+      "prefix": "picohsm",
+      "main": true,
+      "subs": [
+        "pkg/acme",
+        "pkg/ccid",
+        "pkg/picohsm",
+        "cmd/pico-acme-server",
+        "cmd/pico-hsm-tool"
+      ],
+      "url": "https://tangled.org/msantos.tngl.sh/picohsm"
     },
     {
       "prefix": "redact",
