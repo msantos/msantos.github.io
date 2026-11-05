@@ -55,6 +55,12 @@
         "cmd/mats-influx-proxy",
         "cmd/mats-riemann-sse"
       ],
+      "type": "git",
+      "source": {
+        "home": "https://tangled.org/msantos.tngl.sh/mats",
+        "dir": "https://tangled.org/msantos.tngl.sh/mats/tree/master{/dir}",
+        "file": "https://tangled.org/msantos.tngl.sh/mats/blob/master{/dir}/{file}#L{line}"
+      },
       "url": "https://tangled.org/msantos.tngl.sh/mats"
     },
     {
@@ -86,6 +92,12 @@
         "cmd/pico-acme-server",
         "cmd/pico-hsm-tool"
       ],
+      "type": "git",
+      "source": {
+        "home": "https://tangled.org/msantos.tngl.sh/picohsm",
+        "dir": "https://tangled.org/msantos.tngl.sh/picohsm/tree/master{/dir}",
+        "file": "https://tangled.org/msantos.tngl.sh/picohsm/blob/master{/dir}/{file}#L{line}"
+      },
       "url": "https://tangled.org/msantos.tngl.sh/picohsm"
     },
     {
