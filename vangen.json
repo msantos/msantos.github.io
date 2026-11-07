@@ -57,11 +57,11 @@
       ],
       "type": "git",
       "source": {
-        "home": "https://tangled.org/msantos.tngl.sh/mats",
-        "dir": "https://tangled.org/msantos.tngl.sh/mats/tree/master{/dir}",
-        "file": "https://tangled.org/msantos.tngl.sh/mats/blob/master{/dir}/{file}#L{line}"
+        "home": "https://tangled.org/iscode.ca/mats",
+        "dir": "https://tangled.org/iscode.ca/mats/tree/master{/dir}",
+        "file": "https://tangled.org/iscode.ca/mats/blob/master{/dir}/{file}#L{line}"
       },
-      "url": "https://tangled.org/msantos.tngl.sh/mats"
+      "url": "https://tangled.org/iscode.ca/mats"
     },
     {
       "prefix": "mdg",
@@ -94,11 +94,11 @@
       ],
       "type": "git",
       "source": {
-        "home": "https://tangled.org/msantos.tngl.sh/picohsm",
-        "dir": "https://tangled.org/msantos.tngl.sh/picohsm/tree/master{/dir}",
-        "file": "https://tangled.org/msantos.tngl.sh/picohsm/blob/master{/dir}/{file}#L{line}"
+        "home": "https://tangled.org/iscode.ca/picohsm",
+        "dir": "https://tangled.org/iscode.ca/picohsm/tree/master{/dir}",
+        "file": "https://tangled.org/iscode.ca/picohsm/blob/master{/dir}/{file}#L{line}"
       },
-      "url": "https://tangled.org/msantos.tngl.sh/picohsm"
+      "url": "https://tangled.org/iscode.ca/picohsm"
     },
     {
       "prefix": "redact",
