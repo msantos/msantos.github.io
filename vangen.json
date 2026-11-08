@@ -110,6 +110,17 @@
       "url": "https://github.com/msantos/redact"
     },
     {
+      "prefix": "riemann",
+      "main": true,
+      "type": "git",
+      "source": {
+        "home": "https://tangled.org/iscode.ca/riemann",
+        "dir": "https://tangled.org/iscode.ca/riemann/tree/main{/dir}",
+        "file": "https://tangled.org/iscode.ca/riemann/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://tangled.org/iscode.ca/riemann"
+    },
+    {
       "prefix": "riemann-bridge",
       "main": true,
       "subs": [
