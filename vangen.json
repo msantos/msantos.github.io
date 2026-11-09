@@ -3,6 +3,21 @@
   "index": true,
   "repositories": [
     {
+      "prefix": "btmond",
+      "main": true,
+      "type": "git",
+      "subs": [
+        "cmd/btmond",
+        "pkg/monitor"
+      ],
+      "source": {
+        "home": "https://tangled.org/iscode.ca/btmond",
+        "dir": "https://tangled.org/iscode.ca/btmond/tree/main{/dir}",
+        "file": "https://tangled.org/iscode.ca/btmond/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://tangled.org/iscode.ca/btmond"
+    },
+    {
       "prefix": "cvecat",
       "main": true,
       "subs": [
