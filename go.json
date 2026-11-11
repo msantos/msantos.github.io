@@ -67,6 +67,7 @@
       "main": true,
       "subs": [
         "cmd/mats",
+        "cmd/mats-proxy",
         "cmd/mats-influx-proxy",
         "cmd/mats-riemann-sse"
       ],
