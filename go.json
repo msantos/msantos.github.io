@@ -131,6 +131,20 @@
       "url": "https://tangled.org/iscode.ca/picohsm"
     },
     {
+      "prefix": "plugd",
+      "main": true,
+      "type": "git",
+      "subs": [
+        "cmd/plugd"
+      ],
+      "source": {
+        "home": "https://tangled.org/iscode.ca/plugd",
+        "dir": "https://tangled.org/iscode.ca/plugd/tree/main{/dir}",
+        "file": "https://tangled.org/iscode.ca/plugd/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://tangled.org/iscode.ca/plugd"
+    },
+    {
       "prefix": "redact",
       "main": true,
       "subs": [
