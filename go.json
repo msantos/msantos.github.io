@@ -33,6 +33,20 @@
       "url": "https://github.com/msantos/dnsup"
     },
     {
+      "prefix": "dyried",
+      "main": true,
+      "type": "git",
+      "subs": [
+        "cmd/dyried"
+      ],
+      "source": {
+        "home": "https://tangled.org/iscode.ca/dyried",
+        "dir": "https://tangled.org/iscode.ca/dyried/tree/main{/dir}",
+        "file": "https://tangled.org/iscode.ca/dyried/blob/main{/dir}/{file}#L{line}"
+      },
+      "url": "https://tangled.org/iscode.ca/dyried"
+    },
+    {
       "prefix": "fchmodexec",
       "main": true,
       "subs": [
